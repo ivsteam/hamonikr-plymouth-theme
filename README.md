@@ -15,11 +15,6 @@ $ cd hamonikr-plymouth-theme
 $ sudo ./install.sh
 ```
 
-# Reposiory
-
-https://github.com/ivsteam/hamonikr-plymouth-theme
-
-
 # Issues
 
 https://github.com/ivsteam/hamonikr-plymouth-theme/issues
